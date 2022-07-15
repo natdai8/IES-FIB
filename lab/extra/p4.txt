@@ -1,0 +1,15 @@
+RTS:
+1) Claus externes: (Centre acadèmic, Nom), (Tema, Nom+Curs), (Professor, Nom), (Alumne, Nom),
+                   (Data, Data), (Exercici, Número), 
+2) El preu és el mateix per a cada tema a tota l’acadèmia.
+3) El professor ha de ser especialista en un dels temes oferts per aquell centre.
+4) El professor que dóna la classe ha de ser expert en el tema i treballar al centre.
+5) Un professor de l’acadèmia pot ser-ne també alumne però no es pot fer una classe a ell mateix.
+6) Un professor fa un màxim de cinc classes diàries, sempre en hores diferents.
+7) Sols els de 2n d'ESO tenen ordre d'exercicis.
+8) La nota ha de ser un natural de 0 a 10.
+9) Un exercici es pot resoldre màxim tres vegades a una classe.
+10) El professor de reforç no pot ser el mateix professor però que ha de ser especialista en el tema de la classe.
+
+*Aclaració: entenem que el professor ha de ser el mateix per la classe d'un tema al mateix centre
+*Pd: no hem sapigut fer l'últim paràgraf.

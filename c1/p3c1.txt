@@ -1,0 +1,14 @@
+RTS:
+1) Claus externes: (Fira, nom), (Parcel·la, NumParcel·la), (Data, data), (Empresa, Nom),
+		   (Persona, Nom), 
+		   
+2) Data_ini < Fi_fira
+3) No es pot solapar fires
+4) Les parcel·les limítrofes han de pertànyer a la mateixa fira realitzada.
+5) Si una parcel·la és limítrofa amb una altra, aquesta també és limítrofa amb la primera.
+6) Data_ini_assignació < Data_fi_assignació
+7) Les assignacions tenen una data_ini_assignació i una data_fi_assignació que 
+   estaran incloses entre les data_ini i de fi_fira corresponent a la parcel·la.
+8) Les persones amb més d'una assignació a una mateixa parcel·la no es poden solapar temporalment.
+9) Les persones assignades a parcel·les d’una fira no es poden inscriure a la fira.
+10) Les dates d'inscripció han de pertànyer al període de la fira realitzada.

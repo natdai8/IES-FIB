@@ -1,0 +1,12 @@
+RTS:
+1) Claus externes: (Persona, Nom-Cognoms), (Mes, mes), (País, NomPaís), (Llengua, idioma)
+2) Tota au-pair ha de tenir com a mínim una llengua nativa.
+3) Les sol·licituds dels representants només poden ser a au-pairs natius.
+4) Un representant pot fer més d’una sol·licitud però sempre en períodes que no se 
+   sobreposin.
+5) Al mes d'inici de treball comença el període de sol·licitud de representant.
+6) Un au-pair no pot fer dues sol·licituds al mateix país en períodes sobreposats.
+7) El país de la família ha de ser un dels demanats per l’au-pair i que els períodes 
+   (au-pair soli·licita i representant sol·licita) tinguin com a mínim un mes de coincidència
+8) El mes de sol·licitud del au-pair ha de ser anterior a l'inici del seu període de sol·licitud. 
+TE VOY A ESTRANGULAR

@@ -1,0 +1,13 @@
+RTS:
+1) Claus externes: (Panteó, Nom), (Ciutat, Nom), (Divinitat, Nom), (Temple, Nom), 
+       (Data, Data), (Auguri, Títol), (Estació de l'any, Estació).
+
+2) Clau dèbil: El nom del temple no es pot repetir a la mateixa ciutat.
+3) Les divinitats venerades per un temple han de pertànyer a la ciutat a la que pertany el  
+    panteó al que pertanyen les divinitats.
+4) Com a màxim hi pot haver 12 rituals per divinitat a una ciutat per any.
+5) Data_inici_ritual <= Data_fi.
+6) Data_fi <= Data_auguri
+7) Un ritual d’endevinació només es pot donar si la divinitat a qui es dedica aquest ritual té el 
+    domini d’“Endevinació profètica”.
+8) Si en una endevinació no hi ha auguri, fallida = true, altrament, fallida = false.

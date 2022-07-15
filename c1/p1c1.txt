@@ -1,0 +1,15 @@
+RTS:
+1) Claus externes: (Franja d'edat, data_naix_ini+data_naix_final), (Data, data), 
+		   (Activitat, NomActivitat), (Monitor, Nom-Cognoms), (Menú, codi)
+                   (Places, Nom-Cognoms)
+2) La Data_naix_ini ha de ser menor que la Data_naix_final
+3) La data_ini ha de ser menor que la Data_finalització
+4) Les franges d’edat no tenen solapaments
+5) Dos casals de la mateixa activitat i franja d’edat no es poden solapar temporalment
+6) Els monitors han de ser especialistes en l’activitat del casal
+7) Un monitor pot estar assignat a molts casals sempre que no se solapin
+   temporalment.
+8) Per poder fer la inscripció en ferm d’un nen a un casal, cal que existeixi la 
+   reserva corresponent i que s’hagi produït el pagament del casal. 
+9) Data_naixement ha d'estar entre Data_naix_ini i Data_naix_final
+10) Un nen no pot tenir més d’una reserva a casals que se solapin temporalment.

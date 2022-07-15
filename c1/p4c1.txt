@@ -1,0 +1,13 @@
+RTS:
+1) Claus externes: (Producte, codi), (Data, data), (Client, Usuari), (Comanda, Codi), 
+		   (Ingredient, nom), (Cuiner, codi)
+2) Data_ini_promoció < Data_fi_promoció
+3) Un producte no pot tenir dos preus promocionals simultàniament.
+4) Nou_preu < Preu.
+5) Un ingredient principal no pot ser el substitut del seu ingredient substitut en un mateix plat.
+6) Si la comanda client és un menú, per cada plat individual hi ha un cuiner, i si la comanda 
+   client és d'un plat individual hi ha un cuiner.
+7) L'ingredient substitut haurà de ser un dels possibles substituts de l’ingredient que falta al plat a preparar.
+
+*Aclaració: entenem comanda com un nombre que cada dia es reinicia.
+
